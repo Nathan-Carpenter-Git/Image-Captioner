@@ -12,6 +12,7 @@ Very lightweight image captioner for Spyfall Discord bot. Used to quickly captio
 - Rename all images into an order (0.png | 1.png | etc.)
 - Replace locations array in ImageCaption.py with the names of the locations in same order as the images. (locations = ["Airport Terminal", "Avengers Movie", etc.])
 - Run ImageCaption.py with Python (python ImageCaption.py) using a CLI (Powershell, Git, etc.)
+- You can optionally start at a different index (other than 0) if you already have locations. For example, you can start at 27 since the original version of the Spyfall Discord bot ends at index 26.
 
 ## Optional
 - Change the font by replacing font.ttf file with another.
