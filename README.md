@@ -3,6 +3,10 @@
 ## About
 Very lightweight image captioner for Spyfall Discord bot. Used to quickly caption a large amount of images centered around compatibility with the Spyfall Discord bot. [link](https://github.com/Nathan-Carpenter-Git/spyfall-discord-bot/tree/main)
 
+## Prerequisites
+- Install Python. [Link](https://www.python.org/downloads/)
+- Install Pillow. [Link](https://pillow.readthedocs.io/en/stable/installation/basic-installation.html)
+
 ## How-to-use
 - Find images online for locations you want. I recommend adding "cartoon" at the end of the search to give the desired "Spyfall effect." (Make sure they are all PNGs)
 - Rename all images into an order (0.png | 1.png | etc.)
