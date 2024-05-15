@@ -6,7 +6,7 @@ Very lightweight image captioner for Spyfall Discord bot. Used to quickly captio
 ## How-to-use
 - Find images online for locations you want. I recommend adding "cartoon" at the end of the search to give the desired "Spyfall effect." (Make sure they are all PNGs)
 - Rename all images into an order (0.png | 1.png | etc.)
-- Replace locations array in ImageCaption.py with the names of the locations in same order as the images.
+- Replace locations array in ImageCaption.py with the names of the locations in same order as the images. (locations = ["Airport Terminal", "Avengers Movie", etc.])
 - Run ImageCaption.py with Python (python ImageCaption.py) using a CLI (Powershell, Git, etc.)
 
 ## Optional
